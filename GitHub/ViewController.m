@@ -7,6 +7,8 @@
 //
 
 #import "ViewController.h"
+#import "MyTestFile.h"
+
 
 @interface ViewController ()
 
@@ -16,8 +18,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
-}
+    MyTestFile *test = [MyTestFile new];
+    NSLog(@"tatam %@",test);
+ }
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];

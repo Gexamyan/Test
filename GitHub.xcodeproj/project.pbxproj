@@ -13,6 +13,7 @@
 		F55FD4461D47520C00F2E5F5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F55FD4441D47520C00F2E5F5 /* Main.storyboard */; };
 		F55FD4481D47520C00F2E5F5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F55FD4471D47520C00F2E5F5 /* Assets.xcassets */; };
 		F55FD44B1D47520C00F2E5F5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F55FD4491D47520C00F2E5F5 /* LaunchScreen.storyboard */; };
+		F55FD4541D4754FE00F2E5F5 /* MyTestFile.m in Sources */ = {isa = PBXBuildFile; fileRef = F55FD4531D4754FE00F2E5F5 /* MyTestFile.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		F55FD4471D47520C00F2E5F5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F55FD44A1D47520C00F2E5F5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F55FD44C1D47520C00F2E5F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F55FD4521D4754FE00F2E5F5 /* MyTestFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyTestFile.h; sourceTree = "<group>"; };
+		F55FD4531D4754FE00F2E5F5 /* MyTestFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyTestFile.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,8 @@
 		F55FD43A1D47520C00F2E5F5 /* GitHub */ = {
 			isa = PBXGroup;
 			children = (
+				F55FD4521D4754FE00F2E5F5 /* MyTestFile.h */,
+				F55FD4531D4754FE00F2E5F5 /* MyTestFile.m */,
 				F55FD43E1D47520C00F2E5F5 /* AppDelegate.h */,
 				F55FD43F1D47520C00F2E5F5 /* AppDelegate.m */,
 				F55FD4411D47520C00F2E5F5 /* ViewController.h */,
@@ -150,6 +155,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F55FD4431D47520C00F2E5F5 /* ViewController.m in Sources */,
+				F55FD4541D4754FE00F2E5F5 /* MyTestFile.m in Sources */,
 				F55FD4401D47520C00F2E5F5 /* AppDelegate.m in Sources */,
 				F55FD43D1D47520C00F2E5F5 /* main.m in Sources */,
 			);
