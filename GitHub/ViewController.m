@@ -20,6 +20,7 @@
     [super viewDidLoad];
     MyTestFile *test = [MyTestFile new];
     NSLog(@"tatam %@",test);
+    NSLog(@"gexam");
  }
 
 - (void)didReceiveMemoryWarning {
