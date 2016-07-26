@@ -21,6 +21,18 @@
     MyTestFile *test = [MyTestFile new];
     NSLog(@"tatam %@",test);
     NSLog(@"gexam");
+    MyTestFile *test1 = [MyTestFile new];
+    NSLog(@"tatam %@",test);
+    NSLog(@"gexam");
+
+    MyTestFile *test2 = [MyTestFile new];
+    NSLog(@"tatam %@",test);
+    NSLog(@"gexam");
+
+    MyTestFile *test3 = [MyTestFile new];
+    NSLog(@"tatam %@",test);
+    NSLog(@"gexam");
+
  }
 
 - (void)didReceiveMemoryWarning {
