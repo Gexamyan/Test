@@ -20,7 +20,7 @@
     [super viewDidLoad];
     MyTestFile *test = [MyTestFile new];
     NSLog(@"tatam %@",test);
-    NSLog(@"tatam %@",test);
+    NSLog(@"ggfgf %@",test);
     MyTestFile *test = [MyTestFile new];
     NSLog(@"tatam %@",test);
     NSLog(@"tatam %@",test);
