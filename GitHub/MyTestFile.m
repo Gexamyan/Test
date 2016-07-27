@@ -15,6 +15,8 @@
     if (self) {;
         NSLog(@"this is my test file");
         NSLog(@"this is my test file");
+        NSLog(@"this is my test file");
+
 
     }
     return self;
