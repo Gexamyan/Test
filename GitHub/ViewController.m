@@ -21,6 +21,30 @@
     MyTestFile *test = [MyTestFile new];
     NSLog(@"tatam %@",test);
     NSLog(@"tatam %@",test);
+    MyTestFile *test = [MyTestFile new];
+    NSLog(@"tatam %@",test);
+    NSLog(@"tatam %@",test);
+
+    MyTestFile *test = [MyTestFile new];
+    NSLog(@"tatam %@",test);
+    NSLog(@"tatam %@",test);
+
+    MyTestFile *test = [MyTestFile new];
+    NSLog(@"tatam %@",test);
+    NSLog(@"tatam %@",test);
+
+    MyTestFile *test = [MyTestFile new];
+    NSLog(@"tatam %@",test);
+    NSLog(@"tatam %@",test);
+
+    MyTestFile *test = [MyTestFile new];
+    NSLog(@"tatam %@",test);
+    NSLog(@"tatam %@",test);
+
+    MyTestFile *test = [MyTestFile new];
+    NSLog(@"tatam %@",test);
+    NSLog(@"tatam %@",test);
+
 
  }
 
