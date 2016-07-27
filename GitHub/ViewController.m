@@ -18,7 +18,25 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-  
+    NSLog(@"ssdsdsd");
+    NSLog(@"ssdsdsd");
+
+    NSLog(@"ssdsdsd");
+
+    NSLog(@"ssdsdsd");
+
+    NSLog(@"ssdsdsd");
+
+    NSLog(@"ssdsdsd");
+
+    NSLog(@"ssdsdsd");
+
+    NSLog(@"ssdsdsd");
+
+    NSLog(@"ssdsdsd");
+
+    
+    
 
  }
 
