@@ -18,19 +18,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    MyTestFile *test = [MyTestFile new];
-    MyTestFile *test = [MyTestFile new];
-    MyTestFile *test = [MyTestFile new];
-    MyTestFile *test = [MyTestFile new];
-    MyTestFile *test = [MyTestFile new];
-    MyTestFile *test = [MyTestFile new];
-    MyTestFile *test = [MyTestFile new];
-    MyTestFile *test = [MyTestFile new];
-    MyTestFile *test = [MyTestFile new];
-    MyTestFile *test = [MyTestFile new];
-    MyTestFile *test = [MyTestFile new];
-    MyTestFile *test = [MyTestFile new];
-    
+      
 
   }
     NSLog(@"ssdsdsd");
