@@ -13,6 +13,10 @@
 {
     self = [super init];
     if (self) {;
+        NSLog(@"this is my test file");
+        NSLog(@"this is my test file");
+        NSLog(@"this is my test file");
+
         NSLog(@"this is my test file"); NSLog(@"tatam");
         NSLog(@"gexam");
         NSLog(@"gexam");
