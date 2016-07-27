@@ -17,6 +17,16 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"gexam");
+    NSLog(@"gago");
+    NSLog(@"gago");
+
+    NSLog(@"gago");
+
+    NSLog(@"gago");
+
+    
+    
+
 }
 
 - (void)didReceiveMemoryWarning {

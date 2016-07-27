@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F549A25A1D48A568008F1DF4 /* tttt.m in Sources */ = {isa = PBXBuildFile; fileRef = F549A2591D48A568008F1DF4 /* tttt.m */; };
 		F55FD43D1D47520C00F2E5F5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F55FD43C1D47520C00F2E5F5 /* main.m */; };
 		F55FD4401D47520C00F2E5F5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F55FD43F1D47520C00F2E5F5 /* AppDelegate.m */; };
 		F55FD4431D47520C00F2E5F5 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F55FD4421D47520C00F2E5F5 /* ViewController.m */; };
@@ -16,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F549A2581D48A568008F1DF4 /* tttt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tttt.h; sourceTree = "<group>"; };
+		F549A2591D48A568008F1DF4 /* tttt.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = tttt.m; sourceTree = "<group>"; };
 		F55FD4381D47520C00F2E5F5 /* GitHub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitHub.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F55FD43C1D47520C00F2E5F5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		F55FD43E1D47520C00F2E5F5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -67,6 +70,8 @@
 				F55FD4491D47520C00F2E5F5 /* LaunchScreen.storyboard */,
 				F55FD44C1D47520C00F2E5F5 /* Info.plist */,
 				F55FD43B1D47520C00F2E5F5 /* Supporting Files */,
+				F549A2581D48A568008F1DF4 /* tttt.h */,
+				F549A2591D48A568008F1DF4 /* tttt.m */,
 			);
 			path = GitHub;
 			sourceTree = "<group>";
@@ -150,6 +155,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F55FD4431D47520C00F2E5F5 /* ViewController.m in Sources */,
+				F549A25A1D48A568008F1DF4 /* tttt.m in Sources */,
 				F55FD4401D47520C00F2E5F5 /* AppDelegate.m in Sources */,
 				F55FD43D1D47520C00F2E5F5 /* main.m in Sources */,
 			);
@@ -302,6 +308,7 @@
 				F55FD4511D47520C00F2E5F5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
