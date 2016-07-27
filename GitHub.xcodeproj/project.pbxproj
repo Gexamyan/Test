@@ -7,7 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+<<<<<<< HEAD
 		F549A25A1D48A568008F1DF4 /* tttt.m in Sources */ = {isa = PBXBuildFile; fileRef = F549A2591D48A568008F1DF4 /* tttt.m */; };
+=======
+		F549A2571D487FB6008F1DF4 /* yto.m in Sources */ = {isa = PBXBuildFile; fileRef = F549A2561D487FB6008F1DF4 /* yto.m */; };
+>>>>>>> f454de1dca578305f72e67542300ed451eec3ee3
 		F55FD43D1D47520C00F2E5F5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F55FD43C1D47520C00F2E5F5 /* main.m */; };
 		F55FD4401D47520C00F2E5F5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F55FD43F1D47520C00F2E5F5 /* AppDelegate.m */; };
 		F55FD4431D47520C00F2E5F5 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F55FD4421D47520C00F2E5F5 /* ViewController.m */; };
@@ -17,8 +21,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+<<<<<<< HEAD
 		F549A2581D48A568008F1DF4 /* tttt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tttt.h; sourceTree = "<group>"; };
 		F549A2591D48A568008F1DF4 /* tttt.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = tttt.m; sourceTree = "<group>"; };
+=======
+		F549A2551D487FB6008F1DF4 /* yto.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = yto.h; sourceTree = "<group>"; };
+		F549A2561D487FB6008F1DF4 /* yto.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = yto.m; sourceTree = "<group>"; };
+>>>>>>> f454de1dca578305f72e67542300ed451eec3ee3
 		F55FD4381D47520C00F2E5F5 /* GitHub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitHub.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F55FD43C1D47520C00F2E5F5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		F55FD43E1D47520C00F2E5F5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -61,6 +70,13 @@
 		F55FD43A1D47520C00F2E5F5 /* GitHub */ = {
 			isa = PBXGroup;
 			children = (
+<<<<<<< HEAD
+				F55FD4521D4754FE00F2E5F5 /* MyTestFile.h */,
+				F549A2551D487FB6008F1DF4 /* yto.h */,
+				F549A2561D487FB6008F1DF4 /* yto.m */,
+				F55FD4531D4754FE00F2E5F5 /* MyTestFile.m */,
+=======
+>>>>>>> master
 				F55FD43E1D47520C00F2E5F5 /* AppDelegate.h */,
 				F55FD43F1D47520C00F2E5F5 /* AppDelegate.m */,
 				F55FD4411D47520C00F2E5F5 /* ViewController.h */,
@@ -155,7 +171,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				F55FD4431D47520C00F2E5F5 /* ViewController.m in Sources */,
+<<<<<<< HEAD
 				F549A25A1D48A568008F1DF4 /* tttt.m in Sources */,
+=======
+<<<<<<< HEAD
+				F55FD4541D4754FE00F2E5F5 /* MyTestFile.m in Sources */,
+				F549A2571D487FB6008F1DF4 /* yto.m in Sources */,
+=======
+>>>>>>> master
+>>>>>>> f454de1dca578305f72e67542300ed451eec3ee3
 				F55FD4401D47520C00F2E5F5 /* AppDelegate.m in Sources */,
 				F55FD43D1D47520C00F2E5F5 /* main.m in Sources */,
 			);

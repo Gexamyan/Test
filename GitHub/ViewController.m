@@ -7,6 +7,8 @@
 //
 
 #import "ViewController.h"
+#import "MyTestFile.h"
+
 
 @interface ViewController ()
 
@@ -23,11 +25,43 @@
     NSLog(@"gago");
 
     NSLog(@"gago");
+    MyTestFile *test = [MyTestFile new];
+    MyTestFile *test = [MyTestFile new];
+    MyTestFile *test = [MyTestFile new];
+    MyTestFile *test = [MyTestFile new];
+    MyTestFile *test = [MyTestFile new];
+    MyTestFile *test = [MyTestFile new];
+    MyTestFile *test = [MyTestFile new];
+    MyTestFile *test = [MyTestFile new];
+    MyTestFile *test = [MyTestFile new];
+    MyTestFile *test = [MyTestFile new];
+    MyTestFile *test = [MyTestFile new];
+    MyTestFile *test = [MyTestFile new];
+    
+
+  }
+    NSLog(@"ssdsdsd");
+    NSLog(@"ssdsdsd");
+
+    NSLog(@"ssdsdsd");
+
+    NSLog(@"ssdsdsd");
+
+    NSLog(@"ssdsdsd");
+
+    NSLog(@"ssdsdsd");
+
+    NSLog(@"ssdsdsd");
+
+    NSLog(@"ssdsdsd");
+
+    NSLog(@"ssdsdsd");
 
     
     
 
 }
+ }
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
