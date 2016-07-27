@@ -26,6 +26,13 @@
     NSLog(@"gexam");
     NSLog(@"gexam");
 
+    NSLog(@"tatam %@",test);
+    NSLog(@"gexam");
+    NSLog(@"gexam");
+    NSLog(@"gexam");
+    NSLog(@"gexam");
+    NSLog(@"gexam");
+
  }
 
 - (void)didReceiveMemoryWarning {
